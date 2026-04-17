@@ -2,6 +2,8 @@
 
 A simple command-line tool to display the latest public GitHub activity for any user, with emoji icons and color-coded output powered by [`rich`](https://github.com/Textualize/rich).
 
+## https://roadmap.sh/projects/github-user-activity 
+
 ## Features
 
 - Fetches up to 20 recent public events for any GitHub user
